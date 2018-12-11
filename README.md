@@ -14,3 +14,10 @@ The window with webcam feed will open and the algorithm will alert you if drowsi
 The data folder contains the audio files folder.
 Here you can place your own audio clips that you want to use as alert tones.
 This gives a personal touch to the user.
+
+Features Provided
+• Detection of drowsiness
+• Detection of distraction
+• Audio feedback system
+• Different feedback based on type of distraction.
+
